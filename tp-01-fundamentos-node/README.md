@@ -13,7 +13,7 @@ para ejecutar el segundo programa se utiliza como comando "node orden-event-loop
      Estudiante N3"
 demostrando que el callback de setTimeout() espera a que termine el codigo principal para poder ejecutarse. 
 ## Archivo generado
-El primer programa genera un archivo llamado "salida" que contiene en su interior un archivo de texto llamado "ficha-Videojuego.txt" que contiene en su interior la ficha con la informacion del videojuego. 
+El primer programa genera un archivo llamado "salida" que contiene en su interior un archivo de texto llamado "ficha-Videojuego.txt" el cual contiene la informacion del videojuego. 
 ## Conceptos
 1. ¿Qué diferencia existe entre JavaScript, V8 y el runtime de Node.js?
    La diferencia entre estas tres cosas está en que JavaScript es un lenguaje de programación, V8 es un motor desarrollado por Google que se encarga de ejecutar código JavaScript y el runtime de Node.js es un entorno que permite ejecutar código realizado con JavaScript fuera del navegador.
