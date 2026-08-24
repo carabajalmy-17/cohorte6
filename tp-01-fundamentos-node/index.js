@@ -32,7 +32,7 @@ Multijugador?: ${multijugadores}
 `;
 
 //creacion del archivo
-const carpetaSalida = path.join(_dirname,"salida");
+const carpetaSalida = path.join(__dirname,"salida");
 const rutaArchivo = path.join(carpetaSalida, "ficha-Videojuego.txt");
 
 fs.mkdirSync(carpetaSalida, {recursive: true});

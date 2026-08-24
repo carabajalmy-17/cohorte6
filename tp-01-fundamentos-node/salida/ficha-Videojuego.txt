@@ -1,0 +1,7 @@
+FICHA DEL VIDEOJUEGO
+=================
+Titulo: Starsand Island
+Estudio: Seed Sparkle Lab
+Anio: 2026
+Plataformas: Xbox, PlayStation5, Pc(Window)
+Multijugador?: si
